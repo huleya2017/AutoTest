@@ -1,2 +1,2 @@
-Hello world  this for testfklsafkldsfdsfdlsfnkdsnafkdsjfkldsjafkjdskfjz
-在branch2上创建分支
+Hello world
+this is for merge
