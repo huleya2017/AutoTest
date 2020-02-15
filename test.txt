@@ -1,4 +1,5 @@
 Hello world
 this is for merge
 this is for demo merge
-这是出现冲突的第四行
+这是出现冲突的第四行,这是mergedemo上的第四行
+
